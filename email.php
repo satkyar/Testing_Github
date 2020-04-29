@@ -2,7 +2,4 @@
 echo "Sending Email";
 echo "Another email sent";
 
-echo "Third line from local";
-
-echo "Third Line from online";
 
